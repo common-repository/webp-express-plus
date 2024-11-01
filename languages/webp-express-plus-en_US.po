@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WebP Express Plus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-24 22:02+0000\n"
+"PO-Revision-Date: 2021-05-25 14:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: webp-express-plus"
+
+#: index.php:38
+msgid ""
+"1. Specify all photos and/or folders that should not be converted to WebP "
+"format using the WebP Express plugin"
+msgstr ""
+"1. Specify all photos and/or folders that should not be converted to WebP "
+"format using the WebP Express plugin"
+
+#: index.php:40
+msgid "2. New line = new path to the photo and / or photo folder."
+msgstr "2. New line = new path to the photo and / or photo folder."
+
+#: index.php:42
+msgid "3. You must specify the path to the original jpg / png files."
+msgstr "3. You must specify the path to the original jpg / png files."
+
+#: index.php:44
+msgid ""
+"4. The indication must start with \"/\", for example: /wp-"
+"content/uploads/2021/05/pic1.jpg"
+msgstr ""
+"4. The indication must start with \"/\", for example: /wp-"
+"content/uploads/2021/05/pic1.jpg"
+
+#: index.php:46
+msgid ""
+"5. The path to the graphics folder must end with \"/\", for example: /wp-"
+"content/uploads/2021/05/"
+msgstr ""
+"5. The path to the graphics folder must end with \"/\", for example: /wp-"
+"content/uploads/2021/05/"
+
+#: index.php:48
+#| msgid ""
+#| "5. You can check the work of WebP Express Plus through the developer "
+#| "console in the browser (Ctrl+Shift+I -> Network -> Img)."
+msgid ""
+"6. You can check the work of WebP Express Plus through the developer console "
+"in the browser (Ctrl+Shift+I -> Network -> Img)."
+msgstr ""
+"6. You can check the work of WebP Express Plus through the developer console "
+"in the browser (Ctrl+Shift+I -> Network -> Img)."
+
+#. Description of the plugin
+msgid ""
+"Excludes the necessary images and folders with graphics from processing "
+"using the \"WebP Express\" plugin. Works ONLY in combination with \"WebP "
+"Express\" by Bjørn Rosell. Manage in \"Settings\" -> \"WebP Express Plus\"."
+msgstr ""
+"Excludes the necessary images and folders with graphics from processing "
+"using the \"WebP Express\" plugin. Works ONLY in combination with \"WebP "
+"Express\" by Bjørn Rosell. Manage in \"Settings\" -> \"WebP Express Plus\"."
+
+#. Author URI of the plugin
+msgid "https://wp01.ru"
+msgstr "https://wp01.ru"
+
+#: index.php:37
+msgid "Information"
+msgstr "Information"
+
+#: index.php:68
+msgid "Photos and/or folders"
+msgstr "Photos and/or folders"
+
+#. Name of the plugin
+msgid "WebP Express Plus"
+msgstr "WebP Express Plus"
+
+#: index.php:25
+#| msgid "WebP Express Plus Settings"
+msgid "WebP Express Plus settings"
+msgstr "WebP Express Plus settings"
+
+#. Author of the plugin
+msgid "WP01"
+msgstr "WP01"
